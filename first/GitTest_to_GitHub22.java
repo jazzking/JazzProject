@@ -7,5 +7,7 @@ public class GitTest {
 	    System.out.println("Git is Awesome3!!! to GitHub");
 	    System.out.println("Git is Awesome4!!! to GitHub");
 	    System.out.println("Git Push Test 120914");
+            System.out.println("add comments in GitHub");
+
 	  }
 }
